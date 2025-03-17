@@ -32,7 +32,13 @@ It includes sections for **About Me, Projects, Services, and a Contact Form** wi
 ![Home Page](screenshots/port.png)
 
 ### 🔹 Projects Section  
-![Projects Section](screenshots/projects.png)
+
+#### 📌 Project Screenshot 1  
+![Project Screenshot 1](screenshots/pro1.png)
+
+#### 📌 Project Screenshot 2  
+![Project Screenshot 2](screenshots/pro2.png)
+
 
 ---
 
