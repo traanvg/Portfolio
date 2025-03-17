@@ -38,18 +38,13 @@ It includes sections for **About Me, Projects, Services, and a Contact Form** wi
 
 ## 📦 Installation & Setup  
 1️⃣ **Clone the repository**  
-```sh
 git clone https://github.com/your-username/portfolio.git  
 cd portfolio
-## 📦 Installation & Setup  
 
-### 1️⃣ Clone the repository  
-```sh
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
 2️⃣ Install dependencies
 
 npm install
+
 3️⃣ Run the project locally
 
 npm run dev
