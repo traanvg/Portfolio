@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Gemini AI Chatbot Clone",
+    "image": "gemini_clone.png",
+    "description": "An AI-powered chatbot built with React and the Google Generative AI API (Gemini 2.0), featuring real-time responses, chat history, and a user-friendly UI.",
+    "link": "https://github.com/your-repo"
+  },
+  {
+    "title": "MovieMuse",
+    "image": "moviemuse.png",
+    "description": "A movie browsing app using React and Vite, allowing users to search, view, and favorite movies with a dynamic, responsive interface powered by an external API.",
+    "link": "https://github.com/traanvg/MovieMuse"
+  },
+  {
+    "title": "Multimedia Blog Platform",
+    "image": "multiblog.png",
+    "description": "A JavaScript-based blog platform with Google OAuth authentication, enabling users to post multimedia content (audio, video, links) with a scalable SQL backend and a responsive UI.",
+    "link": "https://github.com/mn1701/Melodee-Social-Platform"
+  },
+  {
+    "title": "Portfolio Website",
+    "image": "project4.png",
+    "description": "A personal portfolio website showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript, featuring a responsive design, dynamic project loading from JSON, and a contact form backed by MongoDB for message storage.",
+    "link": "https://github.com/your-repo/portfolio"
+  },
+  {
+    "title": "Nokia Classics Game Collection",
+    "image": "games.png",
+    "description": "A retro-inspired game collection featuring classic Nokia games, including Snake, Pairs, Space Shooter, and Sudoku. Built with HTML, CSS, and JavaScript, this project replicates the nostalgic feel of old-school mobile games while providing a modern, responsive design. Each game offers a unique challenge, from navigating a growing snake to solving a number puzzle.",
+    "link": "https://github.com/mn1701/Nokia-Classics"
+  }
+  
+
+]
