@@ -41,17 +41,15 @@ It includes sections for **About Me, Projects, Services, and a Contact Form** wi
 ```sh
 git clone https://github.com/your-username/portfolio.git  
 cd portfolio
+## 📦 Installation & Setup  
 
-
-2️⃣ **Install dependencies**
+### 1️⃣ Clone the repository  
 ```sh
+git clone https://github.com/your-username/portfolio.git
+cd portfolio
+2️⃣ Install dependencies
+
 npm install
+3️⃣ Run the project locally
 
-3️⃣ **Run the project locally**
-```sh
 npm run dev
-
-### 🚀 Future Improvements
-Add Dark Mode toggle
-Enhance animations with Framer Motion
-Implement Blog Section for technical articles
