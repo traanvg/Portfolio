@@ -37,7 +37,7 @@ It includes sections for **About Me, Projects, Services, and a Contact Form** wi
 ---
 
 ## 📦 Installation & Setup  
-1️⃣ **Clone the repository**  
+1️⃣ Clone the repo 
 git clone https://github.com/your-username/portfolio.git  
 cd portfolio
 
