@@ -44,12 +44,14 @@ cd portfolio
 
 
 2️⃣ **Install dependencies**
+```sh
 npm install
 
-3️⃣ Run the project locally
+3️⃣ **Run the project locally**
+```sh
 npm run dev
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 Add Dark Mode toggle
 Enhance animations with Framer Motion
 Implement Blog Section for technical articles
