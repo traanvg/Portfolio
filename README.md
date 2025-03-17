@@ -20,7 +20,7 @@ Database: MongoDB (for contact form messages)
 
 📸 Screenshots
 🔹 Home Page
-![Uploading Screenshot 2025-03-02 at 3.26.37 PM.png…]()
+![Portfolio Screenshot](screenshots/port.png)
 
 
 🔹 Projects Section
